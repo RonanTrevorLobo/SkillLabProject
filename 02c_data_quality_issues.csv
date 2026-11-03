@@ -1,0 +1,13 @@
+﻿issue,columns,rows_affected,example
+Exact duplicate rows,all columns,6,same student_id appears twice
+Repeated student_id,student_id,6,
+Missing values,payment_method,6,
+Missing values,age,5,
+Missing values,locality,3,
+Inconsistent spelling / casing / spaces,city,15,'BANGALORE' | 'Bengaluru ' | 'Bengaluru' | 'bangalore '
+Inconsistent spelling / casing / spaces,locality,12,'INDIRANAGAR' | 'MALLESHWARAM' | 'RAJAJINAGAR' | 'electronic city '
+Inconsistent spelling / casing / spaces,payment_method,8,'DEBIT CARD' | 'UPI ' | 'cash' | 'net banking'
+"Numbers stored as text (₹ symbol, commas, ""/-"")",numeric columns,8,"'₹19,500'"
+Negative amounts,numeric columns,1,
+Single category spend larger than total income (likely extra-zero typo),"food_inr,transport_inr,...",3,
+Constant column (no information),data_origin,156,all values = synthetic

@@ -1,0 +1,18 @@
+﻿step,action,rows_or_cells_changed,detail
+0,Rows before cleaning,156,raw file
+1,Removed exact duplicate rows,6,identical double-submitted records
+2,"Standardised city to ""Bangalore""",14,Bengaluru / BANGALORE / trailing spaces -> Bangalore
+2,Fixed locality casing and spaces,10,"e.g. ""electronic city "" -> ""Electronic City"""
+2,Fixed payment_method casing and spaces,8,upi / UPI  -> UPI
+3,"Converted ₹ / comma / ""/-"" text to numbers",8,"e.g. ""₹19,500"" -> 19500"
+4,Corrected negative amounts to positive,1,sign typo in transport_inr
+5,Fixed extra-zero typo (value / 10),1,S033 food_inr: 19500 -> 1950 (was larger than total income 14100)
+5,Fixed extra-zero typo (value / 10),1,S004 shopping_inr: 23600 -> 2360 (was larger than total income 12800)
+5,Fixed extra-zero typo (value / 10),1,S052 online_purchases_inr: 25700 -> 2570 (was larger than total income 9200)
+6,Filled missing age with median of same course level and year,5,
+6,"Filled missing payment_method with ""Not provided""",6,same convention as your original file
+6,"Filled missing locality with ""Not specified""",3,same convention as your original file
+7,Re-derived allowance_bracket from amount,0,bracket now always matches the amount
+7,Dropped constant column data_origin,150,"every value was ""synthetic""; no information"
+8,Validation passed,150,"no nulls, unique student_id, no negatives, no spend above income, 150 rows"
+9,Rows after cleaning,150,

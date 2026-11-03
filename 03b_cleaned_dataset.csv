@@ -1,0 +1,151 @@
+﻿student_id,profile_label,age,city,locality,student_type,course_level,year_of_study,month,allowance_bracket,monthly_allowance_inr,part_time_income_inr,rent_paid_by,rent_inr,mess_charges_inr,food_inr,transport_inr,mobile_internet_inr,subscriptions_inr,education_inr,personal_care_inr,healthcare_inr,entertainment_inr,shopping_inr,online_purchases_inr,other_inr,payment_method
+S001,Day scholar lives at home and walks or cycles,21,Bangalore,Vijayanagar,Day Scholar,PG,1,2026-11,₹5000-₹10000,6000,0,Not applicable,0,0,1080,70,349,99,350,560,0,840,540,240,790,UPI
+S002,Shared PG twin sharing with meals,19,Bangalore,Rajajinagar,Hosteller,UG,1,2026-09,Above ₹20000,22000,0,Self,7500,0,2300,820,199,268,410,320,210,1840,1280,2090,0,UPI
+S003,PG near college,21,Bangalore,Banashankari,Hosteller,PG,1,2026-11,₹5000-₹10000,8500,0,Parents,10000,0,2120,590,299,208,520,620,0,1640,1960,1180,0,UPI
+S004,Single room PG,22,Bangalore,HSR Layout,Hosteller,PG,1,2026-11,₹10000-₹20000,10000,2800,Parents,9000,0,4090,1000,299,99,1740,530,350,620,2360,1380,0,UPI
+S005,Daily commuter by Namma Metro (lives with family),19,Bangalore,JP Nagar,Day Scholar,UG,1,2026-11,₹5000-₹10000,9000,0,Not applicable,0,0,1060,1280,349,59,260,570,530,1560,2100,1880,810,UPI
+S006,PG near college,22,Bangalore,Jayanagar,Hosteller,PG,1,2026-09,Below ₹5000,3000,4200,Parents,11000,0,1650,490,299,149,420,220,350,1460,1000,520,0,UPI
+S007,PG near college,22,Bangalore,Jayanagar,Hosteller,PG,1,2026-09,₹10000-₹20000,11000,5000,Self,11000,0,1710,580,349,59,170,430,0,1590,690,690,380,Debit Card
+S008,Daily commuter on two-wheeler (lives with family),22,Bangalore,Malleshwaram,Day Scholar,PG,1,2026-10,₹5000-₹10000,9500,0,Not applicable,0,0,1630,2120,349,59,670,300,0,640,630,3110,0,UPI
+S009,Shared PG twin sharing with meals,19,Bangalore,Jayanagar,Hosteller,UG,1,2026-11,₹10000-₹20000,12000,0,Self,6500,0,1030,650,399,199,540,300,560,1080,1010,2260,420,UPI
+S010,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,1,2026-10,Above ₹20000,28000,0,Self,4500,6500,2750,330,349,299,590,770,0,3510,3530,2340,820,Cash
+S011,PG near college,21,Bangalore,Banashankari,Hosteller,UG,4,2026-10,₹5000-₹10000,6500,0,Parents,12500,0,620,610,239,268,310,240,130,440,120,1590,450,UPI
+S012,Shared PG twin sharing with meals,21,Bangalore,Marathahalli,Hosteller,UG,4,2026-10,₹10000-₹20000,19500,0,Parents,7000,0,2300,670,199,59,2430,1050,0,2920,4060,4100,0,UPI
+S013,PG near college,22,Bangalore,Jayanagar,Hosteller,PG,1,2026-10,Below ₹5000,3500,5600,Parents,12500,0,630,380,299,149,310,650,260,790,1650,1580,800,UPI
+S014,PG near college,20,Bangalore,Banashankari,Hosteller,UG,3,2026-09,₹5000-₹10000,9000,0,Parents,12000,0,1490,680,399,0,590,500,0,830,2660,0,730,Debit Card
+S015,PG near college,20,Bangalore,Near college,Hosteller,UG,2,2026-09,Above ₹20000,23500,0,Self,12000,0,1150,410,399,299,570,360,180,360,1460,630,710,Cash
+S016,Daily commuter by Namma Metro (lives with family),19,Bangalore,RT Nagar,Day Scholar,UG,1,2026-11,₹10000-₹20000,11000,0,Not applicable,0,0,1150,1530,299,298,600,570,250,2410,3000,0,1070,UPI
+S017,Daily commuter by BMTC bus (lives with family),21,Bangalore,Malleshwaram,Day Scholar,PG,1,2026-11,₹10000-₹20000,14000,0,Not applicable,0,0,2150,2060,0,0,750,700,0,950,3470,0,1120,UPI
+S018,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,2,2026-11,₹10000-₹20000,12000,0,Parents,4500,5500,930,470,399,0,690,290,0,570,4310,1010,0,UPI
+S019,Shared PG twin sharing with meals,19,Bangalore,HSR Layout,Hosteller,UG,2,2026-10,₹10000-₹20000,14000,0,Parents,7500,0,2960,750,299,268,370,350,240,1310,2070,3140,550,UPI
+S020,Daily commuter by BMTC bus (lives with family),20,Bangalore,Basavanagudi,Day Scholar,UG,3,2026-11,₹10000-₹20000,16500,0,Not applicable,0,0,1720,1400,299,99,490,590,0,2200,3320,1950,450,Cash
+S021,PG near college,19,Bangalore,Marathahalli,Hosteller,UG,2,2026-10,₹5000-₹10000,8000,3500,Parents,12000,0,1100,570,199,0,350,590,280,1950,2970,1010,880,Cash
+S022,Daily commuter by Namma Metro (lives with family),18,Bangalore,Banashankari,Day Scholar,UG,1,2026-11,₹5000-₹10000,6500,0,Not applicable,0,0,750,1990,0,298,570,460,190,1510,110,0,0,Cash
+S023,Daily commuter by BMTC bus (lives with family),19,Bangalore,JP Nagar,Day Scholar,UG,2,2026-11,₹10000-₹20000,10500,0,Not applicable,0,0,730,1200,349,149,420,780,550,1340,2620,1600,220,Not provided
+S024,Shared PG twin sharing with meals,20,Bangalore,Jayanagar,Hosteller,UG,2,2026-11,₹10000-₹20000,11500,0,Parents,8000,0,1260,720,299,199,500,620,480,1920,2230,2450,230,UPI
+S025,Day scholar lives at home and walks or cycles,19,Bangalore,Indiranagar,Day Scholar,UG,1,2026-09,₹5000-₹10000,6500,0,Not applicable,0,0,900,150,399,99,1920,590,0,1130,60,130,0,Cash
+S026,PG near college,18,Bangalore,Electronic City,Hosteller,UG,1,2026-11,₹10000-₹20000,15000,4400,Self,12500,0,1860,200,399,298,640,330,0,800,2310,1640,400,Net Banking
+S027,Single room PG,20,Bangalore,Yelahanka,Hosteller,UG,3,2026-09,₹10000-₹20000,11500,0,Parents,9000,0,4060,1030,299,199,1470,230,110,1050,1430,1000,930,UPI
+S028,Day scholar lives at home and walks or cycles,20,Bangalore,Rajajinagar,Day Scholar,UG,2,2026-11,₹5000-₹10000,6500,5900,Not applicable,0,0,840,0,399,149,310,850,0,1430,1960,2830,1090,UPI
+S029,College hostel with mess,18,Bangalore,On campus,Hosteller,UG,1,2026-11,Below ₹5000,4000,5600,Parents,6000,6500,610,220,199,258,990,540,450,920,1310,1900,0,UPI
+S030,Day scholar lives at home and walks or cycles,18,Bangalore,Hebbal,Day Scholar,UG,1,2026-09,Below ₹5000,2000,2900,Not applicable,0,0,490,0,399,248,1850,600,120,410,1690,0,0,UPI
+S031,Daily commuter on two-wheeler (lives with family),22,Bangalore,JP Nagar,Day Scholar,UG,4,2026-11,Below ₹5000,4500,4400,Not applicable,0,0,2200,1830,399,358,480,460,0,930,2680,830,450,Cash
+S032,Daily commuter by BMTC bus (lives with family),20,Bangalore,RT Nagar,Day Scholar,UG,2,2026-10,₹5000-₹10000,6500,6200,Not applicable,0,0,1450,1200,399,358,430,260,600,2370,690,4830,780,UPI
+S033,Daily commuter by BMTC bus (lives with family),21,Bangalore,JP Nagar,Day Scholar,UG,3,2026-11,₹5000-₹10000,5500,8600,Not applicable,0,0,1950,2240,299,149,570,580,110,2490,2320,580,530,Cash
+S034,Daily commuter by Namma Metro (lives with family),21,Bangalore,Indiranagar,Day Scholar,UG,3,2026-10,Below ₹5000,4000,5600,Not applicable,0,0,1430,1650,299,149,580,230,0,1370,1830,0,0,Debit Card
+S035,Single room PG,21,Bangalore,HSR Layout,Hosteller,UG,4,2026-11,₹10000-₹20000,14000,0,Parents,12000,0,3240,940,299,318,360,310,440,1050,3460,0,0,UPI
+S036,Shared PG twin sharing with meals,19,Bangalore,Malleshwaram,Hosteller,UG,2,2026-10,₹5000-₹10000,5000,7600,Parents,7500,0,2640,760,349,208,570,870,0,2360,3370,0,0,UPI
+S037,Shared PG twin sharing with meals,22,Bangalore,Malleshwaram,Hosteller,PG,2,2026-11,₹5000-₹10000,9000,0,Parents,7000,0,1870,510,299,299,570,820,550,450,780,630,590,UPI
+S038,Shared PG twin sharing with meals,21,Bangalore,Rajajinagar,Hosteller,UG,3,2026-11,₹5000-₹10000,7000,0,Parents,7500,0,2100,840,239,298,1080,830,580,560,1640,0,0,Cash
+S039,College hostel with mess,22,Bangalore,On campus,Hosteller,UG,4,2026-09,₹5000-₹10000,6000,0,Parents,6000,6500,1390,470,239,268,180,720,0,1550,1780,0,580,UPI
+S040,PG near college,19,Bangalore,Koramangala,Hosteller,UG,2,2026-11,₹10000-₹20000,12500,0,Parents,10000,0,1240,660,349,0,480,830,190,1460,2530,0,1080,Net Banking
+S041,Single room PG,22,Bangalore,Not specified,Hosteller,UG,4,2026-10,₹10000-₹20000,17500,0,Parents,15000,0,5550,860,299,199,340,620,150,2330,3160,280,0,UPI
+S042,PG near college,22,Bangalore,Koramangala,Hosteller,PG,2,2026-11,₹10000-₹20000,10000,0,Parents,10000,0,2810,300,399,0,290,470,0,1280,2680,0,1060,UPI
+S043,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,3,2026-10,Above ₹20000,22500,2100,Self,6000,5500,1730,560,239,0,570,530,420,880,860,1450,0,Cash
+S044,PG near college,20,Bangalore,Rajajinagar,Hosteller,UG,2,2026-09,₹5000-₹10000,8000,0,Parents,12500,0,1260,700,239,0,660,240,500,770,2090,350,290,Debit Card
+S045,Daily commuter by Namma Metro (lives with family),19,Bangalore,Jayanagar,Day Scholar,UG,2,2026-09,₹5000-₹10000,6000,8200,Not applicable,0,0,2120,1650,199,208,520,740,0,1820,1020,1860,640,UPI
+S046,PG near college,20,Bangalore,Rajajinagar,Hosteller,UG,3,2026-09,₹5000-₹10000,8500,0,Parents,10000,0,2370,220,299,99,230,830,510,550,1130,820,650,UPI
+S047,PG near college,21,Bangalore,Basavanagudi,Hosteller,UG,3,2026-09,₹5000-₹10000,9000,0,Parents,12500,0,1930,400,349,418,370,830,0,590,490,710,720,UPI
+S048,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,3,2026-10,₹5000-₹10000,7000,3500,Parents,5000,6500,1500,380,199,208,460,240,210,1930,2030,0,620,UPI
+S049,Shared PG twin sharing with meals,19,Bangalore,Electronic City,Hosteller,UG,2,2026-09,Below ₹5000,2000,3300,Parents,6500,0,1110,420,199,59,180,330,0,500,1620,250,0,UPI
+S050,Daily commuter by Namma Metro (lives with family),19,Bangalore,Malleshwaram,Day Scholar,UG,1,2026-10,₹5000-₹10000,8000,0,Not applicable,0,0,1620,1120,0,0,420,770,300,1080,320,560,0,UPI
+S051,Daily commuter by BMTC bus (lives with family),22,Bangalore,Jayanagar,Day Scholar,PG,1,2026-11,₹5000-₹10000,8000,0,Not applicable,0,0,1270,2180,299,149,330,440,180,1480,1120,0,930,UPI
+S052,Daily commuter by Namma Metro (lives with family),19,Bangalore,Banashankari,Day Scholar,UG,1,2026-11,Below ₹5000,3500,5700,Not applicable,0,0,720,1450,349,199,160,750,330,280,2280,2570,720,Net Banking
+S053,Daily commuter on two-wheeler (lives with family),20,Bangalore,Hebbal,Day Scholar,UG,2,2026-10,₹5000-₹10000,5000,5600,Not applicable,0,0,750,2190,399,149,690,420,310,370,1830,720,0,UPI
+S054,Single room PG,21,Bangalore,Near college,Hosteller,PG,1,2026-09,₹5000-₹10000,6000,0,Parents,10000,0,1910,870,399,99,200,380,0,1350,130,1370,570,UPI
+S055,Daily commuter by BMTC bus (lives with family),21,Bangalore,Whitefield,Day Scholar,PG,1,2026-11,₹5000-₹10000,8000,0,Not applicable,0,0,2350,1400,0,299,240,960,0,1390,1900,0,440,Cash
+S056,Daily commuter on two-wheeler (lives with family),23,Bangalore,Jayanagar,Day Scholar,PG,2,2026-11,₹10000-₹20000,12500,0,Not applicable,0,0,2790,2220,399,149,680,610,290,1270,1630,0,0,UPI
+S057,Shared PG twin sharing with meals,18,Bangalore,Banashankari,Hosteller,UG,1,2026-09,Above ₹20000,24500,0,Self,6500,0,2930,960,399,398,180,790,0,2310,2740,0,780,UPI
+S058,Daily commuter by Namma Metro (lives with family),21,Bangalore,Malleshwaram,Day Scholar,UG,3,2026-11,₹5000-₹10000,9500,0,Not applicable,0,0,1060,1400,299,208,280,320,0,660,350,1770,580,UPI
+S059,Daily commuter by BMTC bus (lives with family),22,Bangalore,Basavanagudi,Day Scholar,PG,1,2026-11,₹10000-₹20000,16500,0,Not applicable,0,0,2020,1400,0,268,600,930,420,2970,3160,3380,1160,UPI
+S060,Shared PG twin sharing with meals,20,Bangalore,Malleshwaram,Hosteller,UG,2,2026-09,₹5000-₹10000,6000,0,Parents,8000,0,680,740,199,119,680,260,360,1190,1140,310,630,Cash
+S061,PG near college,21,Bangalore,Rajajinagar,Hosteller,PG,1,2026-11,₹5000-₹10000,5000,0,Parents,12000,0,1540,420,349,268,250,400,480,640,640,0,430,Debit Card
+S062,Daily commuter by Namma Metro (lives with family),22,Bangalore,Jayanagar,Day Scholar,PG,2,2026-11,₹5000-₹10000,8500,0,Not applicable,0,0,1140,1880,299,248,410,380,0,810,1630,0,0,UPI
+S063,College hostel with mess,21,Bangalore,On campus,Hosteller,PG,1,2026-11,₹10000-₹20000,15000,0,Self,6000,6000,860,380,399,258,180,470,0,1550,600,0,390,UPI
+S064,Daily commuter by Namma Metro (lives with family),19,Bangalore,Yelahanka,Day Scholar,UG,2,2026-10,₹5000-₹10000,7500,3400,Not applicable,0,0,1210,1260,349,0,1630,920,200,1350,2760,0,920,Debit Card
+S065,Daily commuter by BMTC bus (lives with family),21,Bangalore,Malleshwaram,Day Scholar,UG,4,2026-11,Below ₹5000,3000,4800,Not applicable,0,0,820,1570,299,119,410,300,240,1460,2370,770,0,UPI
+S066,PG near college,22,Bangalore,Marathahalli,Hosteller,PG,2,2026-11,Above ₹20000,26500,0,Self,13000,0,2480,310,239,59,180,450,0,2070,500,3640,590,UPI
+S067,PG near college,21,Bangalore,Not specified,Hosteller,PG,1,2026-10,₹5000-₹10000,8000,4900,Parents,12500,0,1090,400,299,119,560,450,500,1360,1500,2050,800,UPI
+S068,Daily commuter by Namma Metro (lives with family),19,Bangalore,Hebbal,Day Scholar,UG,2,2026-10,₹5000-₹10000,9000,0,Not applicable,0,0,1320,1700,349,0,160,710,0,1290,190,2950,0,Debit Card
+S069,Day scholar lives at home and walks or cycles,22,Bangalore,Jayanagar,Day Scholar,UG,4,2026-09,₹10000-₹20000,10000,0,Not applicable,0,0,1330,0,199,358,680,660,0,1380,1260,1730,0,Net Banking
+S070,Daily commuter by Namma Metro (lives with family),18,Bangalore,Malleshwaram,Day Scholar,UG,1,2026-10,₹10000-₹20000,10500,0,Not applicable,0,0,920,920,0,59,1390,710,0,1490,1720,1780,880,Not provided
+S071,Shared PG twin sharing with meals,22,Bangalore,HSR Layout,Hosteller,UG,4,2026-11,₹10000-₹20000,15500,0,Parents,8000,0,2120,780,349,418,270,1040,380,1330,2810,3170,250,UPI
+S072,PG near college,22,Bangalore,Rajajinagar,Hosteller,PG,2,2026-10,Above ₹20000,25000,0,Self,13000,0,1350,610,349,99,420,960,360,1860,3090,0,630,UPI
+S073,PG near college,19,Bangalore,Koramangala,Hosteller,UG,1,2026-10,₹10000-₹20000,10500,0,Parents,10000,0,2060,570,349,0,240,430,0,1080,2460,0,650,UPI
+S074,Shared PG twin sharing with meals,19,Bangalore,Marathahalli,Hosteller,UG,2,2026-11,₹10000-₹20000,10500,0,Parents,6500,0,1480,750,399,119,440,380,590,1890,2560,840,0,UPI
+S075,Single room PG,20,Bangalore,Electronic City,Hosteller,UG,3,2026-09,₹5000-₹10000,9000,0,Parents,14000,0,4110,800,199,119,320,660,130,410,1460,0,270,Debit Card
+S076,PG near college,21,Bangalore,Banashankari,Hosteller,UG,3,2026-11,₹5000-₹10000,7000,0,Parents,11000,0,830,300,299,0,670,400,280,680,140,2210,0,UPI
+S077,College hostel with mess,22,Bangalore,On campus,Hosteller,UG,4,2026-09,₹5000-₹10000,6500,0,Parents,5500,5500,510,330,199,0,660,720,560,1500,20,1730,1170,UPI
+S078,Daily commuter by BMTC bus (lives with family),20,Bangalore,Jayanagar,Day Scholar,UG,2,2026-11,₹10000-₹20000,13500,0,Not applicable,0,0,1640,2000,0,298,680,440,210,1070,2790,730,520,UPI
+S079,Daily commuter by Namma Metro (lives with family),20,Bangalore,Malleshwaram,Day Scholar,UG,3,2026-09,Below ₹5000,3000,4700,Not applicable,0,0,1140,1580,199,149,310,750,520,1020,2130,340,640,UPI
+S080,College hostel with mess,21,Bangalore,On campus,Hosteller,PG,1,2026-09,Below ₹5000,4500,0,Parents,4500,6000,1170,290,199,248,290,460,0,950,1240,140,480,UPI
+S081,Day scholar lives at home and walks or cycles,21,Bangalore,Yelahanka,Day Scholar,UG,3,2026-11,₹5000-₹10000,6500,0,Not applicable,0,0,1660,240,349,119,330,220,520,1030,1750,1810,0,UPI
+S082,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,2,2026-10,₹5000-₹10000,5500,0,Parents,6000,6500,880,350,349,299,360,950,250,410,1470,0,300,UPI
+S083,Single room PG,19,Bangalore,Rajajinagar,Hosteller,UG,2,2026-10,₹10000-₹20000,10500,0,Parents,14000,0,1760,1210,299,248,280,250,0,1540,1460,1750,480,UPI
+S084,Daily commuter by Namma Metro (lives with family),19,Bangalore,Indiranagar,Day Scholar,UG,2,2026-09,₹5000-₹10000,8000,0,Not applicable,0,0,1070,840,299,248,360,420,140,330,480,2340,650,Cash
+S085,Daily commuter on two-wheeler (lives with family),22,Bangalore,Malleshwaram,Day Scholar,UG,4,2026-11,₹10000-₹20000,14000,0,Not applicable,0,0,3050,2090,299,99,2170,860,0,2460,410,1820,0,Debit Card
+S086,Shared PG twin sharing with meals,19,Bangalore,Jayanagar,Hosteller,UG,2,2026-10,₹10000-₹20000,10500,0,Parents,8000,0,1760,590,239,208,340,510,0,840,3360,3360,260,UPI
+S087,College hostel with mess,22,Bangalore,On campus,Hosteller,UG,4,2026-09,₹10000-₹20000,19500,0,Self,6000,6000,1240,130,299,199,220,740,260,1140,1450,380,0,UPI
+S088,PG near college,22,Bangalore,HSR Layout,Hosteller,UG,4,2026-11,₹10000-₹20000,14500,0,Self,11000,0,760,430,239,199,290,190,430,570,1280,0,920,UPI
+S089,Single room PG,20,Bangalore,Electronic City,Hosteller,UG,2,2026-10,₹10000-₹20000,17000,5900,Self,11000,0,2360,640,239,258,570,610,0,1310,2990,320,870,UPI
+S090,Day scholar lives at home and walks or cycles,22,Bangalore,Indiranagar,Day Scholar,PG,2,2026-11,₹5000-₹10000,5000,0,Not applicable,0,0,850,200,299,358,620,400,270,1050,430,0,940,UPI
+S091,Single room PG,19,Bangalore,Jayanagar,Hosteller,UG,2,2026-09,₹5000-₹10000,9500,0,Parents,9000,0,2220,400,349,0,410,540,360,1300,1730,2880,0,UPI
+S092,Daily commuter by Namma Metro (lives with family),20,Bangalore,Rajajinagar,Day Scholar,UG,3,2026-09,₹10000-₹20000,10500,0,Not applicable,0,0,1030,1220,349,59,260,580,0,1150,2340,0,860,UPI
+S093,Day scholar lives at home and walks or cycles,22,Bangalore,Vijayanagar,Day Scholar,PG,1,2026-11,₹5000-₹10000,5500,5300,Not applicable,0,0,1190,0,199,318,180,340,310,1590,1400,2830,0,Net Banking
+S094,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,2,2026-10,₹10000-₹20000,10500,0,Parents,5500,5500,1540,250,299,358,630,390,0,3440,1390,0,0,Not provided
+S095,Daily commuter by BMTC bus (lives with family),22,Bangalore,Yelahanka,Day Scholar,UG,4,2026-10,₹5000-₹10000,9500,0,Not applicable,0,0,1880,1400,0,358,460,730,0,1890,2470,0,430,UPI
+S096,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,2,2026-09,₹10000-₹20000,16500,0,Parents,5000,6500,770,570,299,299,200,880,450,2340,2950,2840,450,Cash
+S097,Daily commuter by Namma Metro (lives with family),22,Bangalore,Whitefield,Day Scholar,PG,1,2026-09,₹10000-₹20000,10500,0,Not applicable,0,0,1820,1400,399,199,470,780,0,2230,1930,1920,0,UPI
+S098,Daily commuter by BMTC bus (lives with family),22,Bangalore,Kengeri,Day Scholar,PG,2,2026-11,₹5000-₹10000,5500,0,Not applicable,0,0,880,2000,349,149,550,350,170,400,730,1020,0,Cash
+S099,PG near college,21,Bangalore,Jayanagar,Hosteller,UG,3,2026-11,₹5000-₹10000,8000,0,Parents,12500,0,830,230,399,0,270,430,440,1270,1630,180,1130,UPI
+S100,Shared PG twin sharing with meals,18,Bangalore,Koramangala,Hosteller,UG,1,2026-09,₹10000-₹20000,10500,0,Parents,6500,0,1170,450,239,208,490,250,0,1360,1400,1070,860,UPI
+S101,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,1,2026-10,₹5000-₹10000,6000,0,Parents,4500,6500,1470,290,239,119,310,620,0,2710,1200,270,0,UPI
+S102,Daily commuter by BMTC bus (lives with family),18,Bangalore,JP Nagar,Day Scholar,UG,1,2026-09,Below ₹5000,2500,4200,Not applicable,0,0,1820,2000,0,149,600,610,0,1760,280,150,180,Not provided
+S103,Day scholar lives at home and walks or cycles,18,Bangalore,Banashankari,Day Scholar,UG,1,2026-11,₹5000-₹10000,7500,0,Not applicable,0,0,760,0,299,318,670,500,0,1220,2560,0,0,UPI
+S104,College hostel with mess,21,Bangalore,On campus,Hosteller,UG,3,2026-09,₹5000-₹10000,7500,0,Parents,6000,5500,760,530,299,0,680,900,0,1240,1570,890,0,UPI
+S105,College hostel with mess,22,Bangalore,On campus,Hosteller,PG,1,2026-11,₹10000-₹20000,12500,3600,Parents,5000,5500,2050,480,399,0,550,800,0,3200,2000,3590,1120,UPI
+S106,Shared PG twin sharing with meals,21,Bangalore,Marathahalli,Hosteller,UG,3,2026-11,₹5000-₹10000,9000,0,Parents,7000,0,1770,350,349,258,370,530,340,1420,1850,2010,270,UPI
+S107,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,1,2026-10,₹5000-₹10000,9500,0,Parents,4500,6500,1330,540,199,99,630,490,510,1230,1130,630,0,Debit Card
+S108,Shared PG twin sharing with meals,19,Bangalore,Malleshwaram,Hosteller,UG,2,2026-11,Below ₹5000,3000,4500,Parents,6500,0,820,690,299,59,240,750,300,1980,10,1850,0,UPI
+S109,Daily commuter on two-wheeler (lives with family),19,Bangalore,RT Nagar,Day Scholar,UG,1,2026-11,₹10000-₹20000,17000,4200,Not applicable,0,0,1780,1630,349,119,550,310,0,2630,4090,3230,820,UPI
+S110,Daily commuter by BMTC bus (lives with family),21,Bangalore,Indiranagar,Day Scholar,UG,3,2026-11,₹10000-₹20000,10000,0,Not applicable,0,0,2090,1200,0,59,510,410,160,560,2340,910,860,Cash
+S111,Daily commuter by Namma Metro (lives with family),19,Bangalore,Yelahanka,Day Scholar,UG,2,2026-10,₹10000-₹20000,13000,0,Not applicable,0,0,2170,1510,0,0,1810,370,260,2840,1000,0,0,UPI
+S112,Daily commuter by BMTC bus (lives with family),21,Bangalore,Malleshwaram,Day Scholar,UG,3,2026-11,Below ₹5000,3500,5200,Not applicable,0,0,540,1670,399,119,270,600,330,820,1880,1490,400,UPI
+S113,Shared PG twin sharing with meals,20,Bangalore,Banashankari,Hosteller,UG,2,2026-09,₹5000-₹10000,5500,4900,Parents,7500,0,2450,560,199,199,330,920,0,1300,2170,1270,450,UPI
+S114,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,3,2026-09,₹5000-₹10000,9000,0,Parents,4500,6500,760,240,199,99,1560,450,210,380,2560,0,0,UPI
+S115,Daily commuter by Namma Metro (lives with family),23,Bangalore,Basavanagudi,Day Scholar,PG,2,2026-11,₹5000-₹10000,7500,3700,Not applicable,0,0,1790,1250,299,398,510,280,0,1840,3060,0,840,Cash
+S116,Daily commuter by Namma Metro (lives with family),20,Bangalore,Kengeri,Day Scholar,UG,3,2026-09,Below ₹5000,3000,4700,Not applicable,0,0,870,1580,199,298,530,340,0,1940,1640,860,0,UPI
+S117,Single room PG,21,Bangalore,Jayanagar,Hosteller,UG,4,2026-10,₹10000-₹20000,14500,0,Parents,12000,0,4810,1190,349,59,650,460,110,850,3260,3460,0,UPI
+S118,College hostel with mess,22,Bangalore,On campus,Hosteller,UG,4,2026-09,₹5000-₹10000,5500,0,Parents,5500,5500,980,510,399,0,630,370,400,380,530,0,280,UPI
+S119,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,3,2026-09,₹5000-₹10000,6000,4300,Parents,6000,6500,490,510,349,258,580,260,480,780,2020,1620,0,Cash
+S120,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,2,2026-10,Below ₹5000,4500,0,Parents,5000,6000,570,530,199,0,190,310,0,1210,1480,0,0,Cash
+S121,Daily commuter by Namma Metro (lives with family),20,Bangalore,Indiranagar,Day Scholar,UG,3,2026-11,₹5000-₹10000,8500,0,Not applicable,0,0,910,1890,199,299,490,560,210,640,1540,710,510,Not provided
+S122,PG near college,22,Bangalore,Jayanagar,Hosteller,PG,1,2026-11,Above ₹20000,33500,0,Self,12000,0,3270,650,349,199,300,340,0,2590,3600,1120,700,UPI
+S123,PG near college,22,Bangalore,Jayanagar,Hosteller,UG,4,2026-09,₹5000-₹10000,9000,0,Parents,12000,0,880,680,239,0,520,640,570,830,610,1590,800,UPI
+S124,Single room PG,19,Bangalore,Basavanagudi,Hosteller,UG,1,2026-09,₹10000-₹20000,10000,7800,Parents,13000,0,5000,520,199,119,1210,870,0,2920,220,1540,0,Cash
+S125,Shared PG twin sharing with meals,22,Bangalore,Marathahalli,Hosteller,PG,1,2026-10,₹5000-₹10000,7500,0,Parents,8000,0,1400,390,239,59,650,890,0,570,2320,2280,0,Cash
+S126,Daily commuter by Namma Metro (lives with family),22,Bangalore,Malleshwaram,Day Scholar,UG,4,2026-09,₹5000-₹10000,7500,0,Not applicable,0,0,970,1830,349,99,420,210,460,1430,260,420,0,UPI
+S127,PG near college,21,Bangalore,Basavanagudi,Hosteller,UG,3,2026-11,₹5000-₹10000,9500,0,Parents,12000,0,2530,660,349,99,810,280,450,1940,2060,0,490,UPI
+S128,PG near college,18,Bangalore,Electronic City,Hosteller,UG,1,2026-11,₹5000-₹10000,8000,0,Parents,12500,0,1050,520,239,208,200,300,0,910,1250,3180,1110,Debit Card
+S129,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,2,2026-10,₹10000-₹20000,19500,0,Self,5000,5500,650,120,239,299,1710,190,270,440,370,1860,0,Cash
+S130,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,1,2026-10,₹5000-₹10000,9500,0,Parents,5500,6500,1210,120,199,59,500,470,320,890,2140,1520,1160,UPI
+S131,Shared PG twin sharing with meals,19,Bangalore,Not specified,Hosteller,UG,1,2026-09,₹10000-₹20000,14500,0,Self,7000,0,2190,350,199,119,490,270,0,590,260,160,880,UPI
+S132,Daily commuter by Namma Metro (lives with family),20,Bangalore,Vijayanagar,Day Scholar,UG,3,2026-09,₹5000-₹10000,8000,0,Not applicable,0,0,1180,1020,299,0,310,410,0,540,230,1530,750,UPI
+S133,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,3,2026-10,₹10000-₹20000,16000,0,Self,4500,6500,1070,430,299,299,480,380,0,1220,350,2320,0,Debit Card
+S134,College hostel with mess,21,Bangalore,On campus,Hosteller,UG,3,2026-09,₹10000-₹20000,11500,0,Parents,4500,6500,2240,380,299,0,390,340,0,2850,90,3080,0,UPI
+S135,Daily commuter by Namma Metro (lives with family),19,Bangalore,Rajajinagar,Day Scholar,UG,2,2026-11,₹5000-₹10000,9000,0,Not applicable,0,0,1170,1370,399,299,220,240,220,1510,2610,0,1050,UPI
+S136,Daily commuter on two-wheeler (lives with family),19,Bangalore,RT Nagar,Day Scholar,UG,2,2026-11,₹5000-₹10000,8500,0,Not applicable,0,0,2810,1840,299,149,330,220,0,910,690,0,1070,UPI
+S137,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,3,2026-09,₹5000-₹10000,9500,0,Parents,6000,5500,1490,570,399,0,400,200,480,1800,1550,840,580,Cash
+S138,Daily commuter by Namma Metro (lives with family),23,Bangalore,Malleshwaram,Day Scholar,PG,2,2026-10,₹10000-₹20000,12500,0,Not applicable,0,0,2010,1270,0,299,520,370,390,340,3140,600,890,UPI
+S139,PG near college,21,Bangalore,Marathahalli,Hosteller,UG,4,2026-11,₹5000-₹10000,6500,4700,Parents,10000,0,1490,600,299,199,540,860,0,1680,1910,0,940,UPI
+S140,Daily commuter on two-wheeler (lives with family),21,Bangalore,Banashankari,Day Scholar,PG,1,2026-09,₹5000-₹10000,9500,0,Not applicable,0,0,1560,1150,0,119,480,480,0,1790,2970,0,0,Debit Card
+S141,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,2,2026-10,₹5000-₹10000,7500,0,Parents,6000,5500,960,350,239,318,540,660,590,1160,1760,1720,0,UPI
+S142,Daily commuter on two-wheeler (lives with family),22,Bangalore,RT Nagar,Day Scholar,PG,2,2026-11,₹10000-₹20000,12500,0,Not applicable,0,0,2140,1270,299,0,360,740,500,910,2590,0,0,UPI
+S143,Single room PG,20,Bangalore,Jayanagar,Hosteller,UG,3,2026-10,₹10000-₹20000,15000,0,Parents,15000,0,4250,400,239,258,270,430,0,1960,1920,1250,0,UPI
+S144,College hostel with mess,19,Bangalore,On campus,Hosteller,UG,2,2026-11,₹5000-₹10000,8000,0,Parents,6000,6500,640,150,349,418,2200,340,0,1260,860,0,290,UPI
+S145,Single room PG,20,Bangalore,Basavanagudi,Hosteller,UG,3,2026-10,₹5000-₹10000,6500,0,Parents,12000,0,1860,470,239,199,180,700,0,1110,550,550,0,Cash
+S146,Daily commuter on two-wheeler (lives with family),19,Bangalore,Basavanagudi,Day Scholar,UG,2,2026-10,₹10000-₹20000,11000,0,Not applicable,0,0,3120,1380,299,59,1270,1060,0,1540,190,630,930,Debit Card
+S147,Shared PG twin sharing with meals,20,Bangalore,Electronic City,Hosteller,UG,2,2026-11,₹10000-₹20000,15000,0,Parents,7500,0,1170,410,349,149,630,1020,0,2490,3500,3410,620,Cash
+S148,Daily commuter by Namma Metro (lives with family),21,Bangalore,Vijayanagar,Day Scholar,UG,3,2026-11,₹5000-₹10000,5500,0,Not applicable,0,0,1320,1680,199,398,690,560,0,710,430,0,660,Not provided
+S149,Shared PG twin sharing with meals,22,Bangalore,Rajajinagar,Hosteller,PG,1,2026-10,₹5000-₹10000,9500,0,Parents,8000,0,2280,630,299,248,660,930,140,850,210,1900,0,Cash
+S150,College hostel with mess,20,Bangalore,On campus,Hosteller,UG,3,2026-09,₹10000-₹20000,10000,0,Parents,6000,6500,2620,140,349,119,440,1070,270,2440,830,230,0,UPI
